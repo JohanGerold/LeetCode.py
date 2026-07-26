@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/JohanGerold/LeetCode.py/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JohanGerold/LeetCode.py/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/JohanGerold/LeetCode.py/tree/master/1207-unique-number-of-occurrences) |
+| [2351-first-letter-to-appear-twice](https://github.com/JohanGerold/LeetCode.py/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/JohanGerold/LeetCode.py/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/JohanGerold/LeetCode.py/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JohanGerold/LeetCode.py/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/JohanGerold/LeetCode.py/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/JohanGerold/LeetCode.py/tree/master/0136-single-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/JohanGerold/LeetCode.py/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JohanGerold/LeetCode.py/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/JohanGerold/LeetCode.py/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JohanGerold/LeetCode.py/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/JohanGerold/LeetCode.py/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
