@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JohanGerold/LeetCode.py/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JohanGerold/LeetCode.py/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JohanGerold/LeetCode.py/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/JohanGerold/LeetCode.py/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/JohanGerold/LeetCode.py/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JohanGerold/LeetCode.py/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/JohanGerold/LeetCode.py/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/JohanGerold/LeetCode.py/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JohanGerold/LeetCode.py/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JohanGerold/LeetCode.py/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JohanGerold/LeetCode.py/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/JohanGerold/LeetCode.py/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,12 +48,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JohanGerold/LeetCode.py/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/JohanGerold/LeetCode.py/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JohanGerold/LeetCode.py/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/JohanGerold/LeetCode.py/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/JohanGerold/LeetCode.py/tree/master/0219-contains-duplicate-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JohanGerold/LeetCode.py/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JohanGerold/LeetCode.py/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JohanGerold/LeetCode.py/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
