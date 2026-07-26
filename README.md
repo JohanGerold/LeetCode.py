@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JohanGerold/LeetCode.py/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/JohanGerold/LeetCode.py/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/JohanGerold/LeetCode.py/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JohanGerold/LeetCode.py/tree/master/0049-group-anagrams) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/JohanGerold/LeetCode.py/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
