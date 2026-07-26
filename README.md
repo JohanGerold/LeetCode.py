@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JohanGerold/LeetCode.py/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/JohanGerold/LeetCode.py/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/JohanGerold/LeetCode.py/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/JohanGerold/LeetCode.py/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JohanGerold/LeetCode.py/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/JohanGerold/LeetCode.py/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/JohanGerold/LeetCode.py/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/JohanGerold/LeetCode.py/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JohanGerold/LeetCode.py/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/JohanGerold/LeetCode.py/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/JohanGerold/LeetCode.py/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/JohanGerold/LeetCode.py/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/JohanGerold/LeetCode.py/tree/master/0349-intersection-of-two-arrays) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/JohanGerold/LeetCode.py/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
