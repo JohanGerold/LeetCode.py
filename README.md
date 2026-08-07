@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JohanGerold/LeetCode.py/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JohanGerold/LeetCode.py/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/JohanGerold/LeetCode.py/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/JohanGerold/LeetCode.py/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/JohanGerold/LeetCode.py/tree/master/0169-majority-element) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JohanGerold/LeetCode.py/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/JohanGerold/LeetCode.py/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/JohanGerold/LeetCode.py/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/JohanGerold/LeetCode.py/tree/master/0392-is-subsequence) |
