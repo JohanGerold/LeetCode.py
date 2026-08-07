@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/JohanGerold/LeetCode.py/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/JohanGerold/LeetCode.py/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JohanGerold/LeetCode.py/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/JohanGerold/LeetCode.py/tree/master/0392-is-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JohanGerold/LeetCode.py/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2351-first-letter-to-appear-twice](https://github.com/JohanGerold/LeetCode.py/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JohanGerold/LeetCode.py/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/JohanGerold/LeetCode.py/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/JohanGerold/LeetCode.py/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/JohanGerold/LeetCode.py/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/JohanGerold/LeetCode.py/tree/master/1480-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/JohanGerold/LeetCode.py/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
