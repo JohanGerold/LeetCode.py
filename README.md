@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JohanGerold/LeetCode.py/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/JohanGerold/LeetCode.py/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/JohanGerold/LeetCode.py/tree/master/0643-maximum-average-subarray-i) |
+| [0905-sort-array-by-parity](https://github.com/JohanGerold/LeetCode.py/tree/master/0905-sort-array-by-parity) |
 | [1207-unique-number-of-occurrences](https://github.com/JohanGerold/LeetCode.py/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/JohanGerold/LeetCode.py/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/JohanGerold/LeetCode.py/tree/master/1480-running-sum-of-1d-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JohanGerold/LeetCode.py/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/JohanGerold/LeetCode.py/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/JohanGerold/LeetCode.py/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/JohanGerold/LeetCode.py/tree/master/0905-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/JohanGerold/LeetCode.py/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/JohanGerold/LeetCode.py/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/JohanGerold/LeetCode.py/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/JohanGerold/LeetCode.py/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
