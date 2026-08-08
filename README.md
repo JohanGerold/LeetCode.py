@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JohanGerold/LeetCode.py/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/JohanGerold/LeetCode.py/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/JohanGerold/LeetCode.py/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JohanGerold/LeetCode.py/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/JohanGerold/LeetCode.py/tree/master/0290-word-pattern) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JohanGerold/LeetCode.py/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JohanGerold/LeetCode.py/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/JohanGerold/LeetCode.py/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/JohanGerold/LeetCode.py/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/JohanGerold/LeetCode.py/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/JohanGerold/LeetCode.py/tree/master/0392-is-subsequence) |
