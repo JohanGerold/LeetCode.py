@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/JohanGerold/LeetCode.py/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/JohanGerold/LeetCode.py/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/JohanGerold/LeetCode.py/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/JohanGerold/LeetCode.py/tree/master/0986-interval-list-intersections) |
 | [1207-unique-number-of-occurrences](https://github.com/JohanGerold/LeetCode.py/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/JohanGerold/LeetCode.py/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/JohanGerold/LeetCode.py/tree/master/1480-running-sum-of-1d-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/JohanGerold/LeetCode.py/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/JohanGerold/LeetCode.py/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/JohanGerold/LeetCode.py/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/JohanGerold/LeetCode.py/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/JohanGerold/LeetCode.py/tree/master/0844-backspace-string-compare) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/JohanGerold/LeetCode.py/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
