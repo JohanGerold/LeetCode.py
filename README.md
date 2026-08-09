@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JohanGerold/LeetCode.py/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JohanGerold/LeetCode.py/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/JohanGerold/LeetCode.py/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/JohanGerold/LeetCode.py/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/JohanGerold/LeetCode.py/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JohanGerold/LeetCode.py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/JohanGerold/LeetCode.py/tree/master/0169-majority-element) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JohanGerold/LeetCode.py/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/JohanGerold/LeetCode.py/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/JohanGerold/LeetCode.py/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JohanGerold/LeetCode.py/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JohanGerold/LeetCode.py/tree/master/0242-valid-anagram) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/JohanGerold/LeetCode.py/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JohanGerold/LeetCode.py/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JohanGerold/LeetCode.py/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/JohanGerold/LeetCode.py/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/JohanGerold/LeetCode.py/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JohanGerold/LeetCode.py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/JohanGerold/LeetCode.py/tree/master/0283-move-zeroes) |
