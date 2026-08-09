@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/JohanGerold/LeetCode.py/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/JohanGerold/LeetCode.py/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/JohanGerold/LeetCode.py/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/JohanGerold/LeetCode.py/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JohanGerold/LeetCode.py/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2351-first-letter-to-appear-twice](https://github.com/JohanGerold/LeetCode.py/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JohanGerold/LeetCode.py/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/JohanGerold/LeetCode.py/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/JohanGerold/LeetCode.py/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/JohanGerold/LeetCode.py/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/JohanGerold/LeetCode.py/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/JohanGerold/LeetCode.py/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/JohanGerold/LeetCode.py/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/JohanGerold/LeetCode.py/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/JohanGerold/LeetCode.py/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/JohanGerold/LeetCode.py/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/JohanGerold/LeetCode.py/tree/master/0680-valid-palindrome-ii) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/JohanGerold/LeetCode.py/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
