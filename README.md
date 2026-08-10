@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JohanGerold/LeetCode.py/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2351-first-letter-to-appear-twice](https://github.com/JohanGerold/LeetCode.py/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JohanGerold/LeetCode.py/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2390-removing-stars-from-a-string](https://github.com/JohanGerold/LeetCode.py/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/JohanGerold/LeetCode.py/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/JohanGerold/LeetCode.py/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/JohanGerold/LeetCode.py/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/JohanGerold/LeetCode.py/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/JohanGerold/LeetCode.py/tree/master/2390-removing-stars-from-a-string) |
 ## Sweep Line
 |  |
 | ------- |
