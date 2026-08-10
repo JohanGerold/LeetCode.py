@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/JohanGerold/LeetCode.py/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0680-valid-palindrome-ii](https://github.com/JohanGerold/LeetCode.py/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/JohanGerold/LeetCode.py/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/JohanGerold/LeetCode.py/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/JohanGerold/LeetCode.py/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/JohanGerold/LeetCode.py/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/JohanGerold/LeetCode.py/tree/master/0986-interval-list-intersections) |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/JohanGerold/LeetCode.py/tree/master/0986-interval-list-intersections) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/JohanGerold/LeetCode.py/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
