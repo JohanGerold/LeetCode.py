@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/JohanGerold/LeetCode.py/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JohanGerold/LeetCode.py/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/JohanGerold/LeetCode.py/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/JohanGerold/LeetCode.py/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/JohanGerold/LeetCode.py/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/JohanGerold/LeetCode.py/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JohanGerold/LeetCode.py/tree/master/0219-contains-duplicate-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/JohanGerold/LeetCode.py/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JohanGerold/LeetCode.py/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JohanGerold/LeetCode.py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/JohanGerold/LeetCode.py/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/JohanGerold/LeetCode.py/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JohanGerold/LeetCode.py/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/JohanGerold/LeetCode.py/tree/master/0349-intersection-of-two-arrays) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/JohanGerold/LeetCode.py/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/JohanGerold/LeetCode.py/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/JohanGerold/LeetCode.py/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -200,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/JohanGerold/LeetCode.py/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JohanGerold/LeetCode.py/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/JohanGerold/LeetCode.py/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
